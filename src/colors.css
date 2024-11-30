@@ -1,0 +1,50 @@
+/* Background Colors for Dark Theme */
+:root {
+  --bg-dark: #1A1A1A; /* Darker background for body */
+  --bg-1: #333333; /* Darker gray for main content */
+  --bg-2: #2C3E50; /* Deep dark blue for header or sections */
+  --bg-light: #F4F4F4; /* Lighter background for contrasting sections */
+  --bg-alt: #444444; /* Alternate dark background for cards or sidebars */
+  --bg-hover: #3A3A3A; /* Hover state background for buttons or links */
+  
+  /* Text Colors */
+  --fg: #E0E0E0; /* Light gray for text to contrast dark backgrounds */
+  --fg-light: #1A1A1A; /* Dark background text color for light sections */
+  --fg-muted: #B0B0B0; /* Muted text color for less important content */
+  --fg-dark: #121212; /* Darker text for elements that need more contrast */
+  --fg-inverse: #FFFFFF; /* Inverse white for text on dark background */
+  
+  /* Earthy & Stone Colors */
+  --earth-brown: #5C3D46; /* Muted, earthy brown for buttons or borders */
+  --earth-tan: #D6A57A; /* Lighter tan for backgrounds or subtle accents */
+  --stone-gray: #6E6E6E; /* Neutral stone gray for borders or divider lines */
+  --pebble-gray: #8B8B8B; /* Lighter pebble gray for secondary text */
+  
+  /* Accent Colors */
+  --volcanic-red: #D14D3C; /* Bold red for buttons or important elements */
+  --volcanic-red-light: #FF6F4A; /* Lighter red for hover or active states */
+  --emerald-green: #3A9A5B; /* Vibrant green for links or interactive elements */
+  --emerald-light: #5BCB82; /* Lighter green for hover or accent states */
+  --golden-amber: #FFB84C; /* Warm amber for highlights or hover effects */
+  --golden-dark: #FF8C00; /* Darker amber for button hover or emphasis */
+  
+  /* Blues */
+  --ocean-blue: #1F3A6D; /* Deep ocean blue for accents or call-to-action buttons */
+  --sky-blue: #4C9BCA; /* Soft blue for links or soft UI elements */
+  
+  /* Purples */
+  --royal-purple: #7A3D7A; /* Rich purple for highlights or special UI elements */
+  --lavender-light: #D6AEDD; /* Lighter lavender for accents or background hover */
+  
+  /* Light & Dark Shades */
+  --light-gray: #D1D1D1; /* Light gray for borders or dividers */
+  --dark-gray: #2B2B2B; /* Darker gray for stronger contrasts */
+  
+  /* Neutrals */
+  --neutral-beige: #C0A080; /* Neutral beige for subtle background areas */
+  --cool-gray: #A1A1A1; /* Cool gray for text or borders with a slight blue tint */
+  
+  /* Warning and Info */
+  --warning-yellow: #FFDD33; /* Bright yellow for warning messages or highlights */
+  --info-blue:
+}

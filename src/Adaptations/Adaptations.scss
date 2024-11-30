@@ -1,0 +1,73 @@
+
+.Adaptations {
+  text-align: center;
+
+  header {
+    margin:120px 0 60px 0;
+
+    h1 {
+      font-size: 50px;
+    }
+  }
+
+  p {
+    transition: 0.3s ease;
+  }
+
+  img:hover {
+    filter: drop-shadow(0px 0px 80px hsla(0, 0%, 88%, 0.2)) brightness(0.9);
+    scale: 1.1;
+  }
+
+  .section {
+    h2 {
+      font-size: 37px;
+      text-decoration: underline;
+      margin-bottom: 70px;
+    }
+
+  
+    ul {
+      list-style: none;
+
+      li {
+
+        h3{
+          font-size: 30px;
+          margin-bottom: 15px;
+        }
+
+        p {
+          font-size: 20px;
+          width: 700px;
+          justify-self: center;
+          
+        }
+
+        img {
+          height: 350px;
+          border-radius: 10px;
+          border-width: 10px;
+          border-color: var(--volcanic-red);
+        }
+      }
+    }
+  }
+
+  .last {
+    h2 {
+      margin-top: 100px;
+    }
+
+    p {
+      margin-bottom: 50px;
+    }
+  }
+
+  #last-section {
+    p {
+      font-size: 25px;
+
+    }
+  }
+}

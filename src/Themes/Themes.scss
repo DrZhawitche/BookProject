@@ -1,0 +1,32 @@
+@import url('../colors.css');
+
+.Themes {
+  text-align: center;
+
+  header {
+    margin: 120px 0 70px 0;
+
+    h1 {
+      font-size: 50px;
+    }
+  }
+
+  .section {
+    h2 {
+      font-size: 35px;
+      margin-bottom: 60px;
+    }
+
+    p {
+      font-size: 25px;
+      font-style: italic;
+      transition: 0.3s ease;
+    }
+
+    img:hover {
+      filter: drop-shadow(0px 0px 40px hsla(0, 0%, 88%, 0.2)) brightness(0.9);
+      scale: 1.05;
+      transition: 0.3s ease;
+    }
+  }
+}

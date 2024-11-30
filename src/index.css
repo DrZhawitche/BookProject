@@ -1,0 +1,6 @@
+@import url('colors.css');
+
+html {
+  background-color: var(--bg-dark);
+  font-family: Arial, Helvetica, sans-serif;
+}
